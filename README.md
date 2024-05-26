@@ -23,7 +23,8 @@ Here are some things about me:
 
 - Strong skills in distributed systems, database systems, data processing (batch and stream), along with collaboration, teamwork, and agile development methodologies. 🧑‍💻
   
-<p align="middle"><a href="https://www.linkedin.com/in/owaisqayum/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/></a></p>
+<p align="middle"><a href="https://www.linkedin.com/in/owaisqayum/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/></a>
+</p>
 
 ***
 
