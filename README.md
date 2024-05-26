@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Owais Qayyum, a PhD Scholar/Data engineer.
 ---
-[![](https://visitcount.itsvg.in/api?id=aviavinashkr&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=drowaisqayyum&icon=0&color=0)](https://visitcount.itsvg.in)
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> -->
 
 <!--
 <div align="center">
